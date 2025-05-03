@@ -82,11 +82,11 @@
 
 <br clear="both">
 
-<blockquote align="center" style="position:relative;padding:2rem;border-radius:1rem">
-  <span style="position:absolute;left:1rem;top:0;font-size:10rem;opacity:25%;font-family:serif">"</span>
-  <figure>If I have seen further than others, it's by standing on the shoulders of giants.</figure>
-  <cite>Isaac Newton</cite>
-</blockquote>
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=tokyonight&quote=If%20I%20have%20seen%20further%20than%20others,%20it%27s%20by%20standing%20on%20the%20shoulders%20of%20giants.&author=Isaac%20Newton)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ###
 
