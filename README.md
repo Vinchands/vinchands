@@ -82,7 +82,11 @@
 
 <br clear="both">
 
-<h5 align="center">"If I have seen further than others, it's by standing on the shoulders of giants."<br><br>~ Sir Isaac Newton</h5>
+<blockquote align="center" style="position:relative;padding:2rem;border-radius:1rem">
+  <span style="position:absolute;left:1rem;top:0;font-size:10rem;opacity:25%;font-family:serif">"</span>
+  <figure>If I have seen further than others, it's by standing on the shoulders of giants.</figure>
+  <cite>Isaac Newton</cite>
+</blockquote>
 
 ###
 
