@@ -1,7 +1,6 @@
 <img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnF6aDQ0cTF3azNiMWUzampxd3VxNTl2aWwxNTBic2VkNzQ4ZGRuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"  />
 
 <h1 align="left">KEVIN CHANDRA SUGIONO</h1>
-
 <h6 align="left">Fullstack developer - UI/UX designer - Tech enthusiast</h6>
 
 <div align="left">
