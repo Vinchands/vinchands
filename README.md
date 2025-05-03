@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnF6aDQ0cTF3azNiMWUzampxd3VxNTl2aWwxNTBic2VkNzQ4ZGRuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"  />
+<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnF6aDQ0cTF3azNiMWUzampxd3VxNTl2aWwxNTBic2VkNzQ4ZGRuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
 
 <h1 align="left">KEVIN CHANDRA SUGIONO</h1>
 <h6 align="left">Fullstack developer - UI/UX designer - Tech enthusiast</h6>
@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<p align="left">Hi! My name is Kevin Chandra Sugiono (known as Vinchands), from Indonesia. I am very excited to always learn something new and make a great achievement. I am also enthusiastic to channel my creativity, gain insights, and experiences. My goal is to fulfil my dream of becoming a great developer one day, or establishing a start-up, too.</p>
+<p align="left">Hi! My name is Kevin Chandra Sugiono (known as Vinchands), from Indonesia. I am very excited to learn something new and make a great achievement. I am also enthusiastic to channel my creativity, gain insights, and experiences. My goal is to fulfil my dream of becoming a great developer one day, or establishing a start-up, too.</p>
 
 ###
 
