@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<p align="left">Hi! My name is Kevin Chandra Sugiono (known as Vinchands), from Indonesia. I am very excited to learn something new and make a great achievement. I am also enthusiastic to channel my creativity, gain insights, and experiences. My goal is to fulfil my dream of becoming a great developer one day, or establishing a start-up, too.</p>
+<p align="left">Hi! My name is Kevin Chandra Sugiono (known as Vinchands), from Indonesia. I am very excited to learn something new and make a great achievement. I am also enthusiastic to channel my creativity, gain insights, and experiences. My goal is to fulfill my dream of becoming a great developer one day, or starting a start-up too.</p>
 
 ###
 
