@@ -35,7 +35,7 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=vinchands.vinchands&left_text=My%20visitors"  />
+[![Visitors](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 
 ###
 
