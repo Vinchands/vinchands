@@ -35,7 +35,7 @@
 
 ###
 
-[![Visitors](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+![](https://komarev.com/ghpvc/?username=Vinchands&color=red)
 
 ###
 
